@@ -1,0 +1,25 @@
+.table {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.table-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    max-width: auto;
+    height: 4rem;
+}
+
+.d {
+    flex-direction: column;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.table-2 div>h5 {
+    margin: .5rem;
+}
